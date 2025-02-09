@@ -1,4 +1,23 @@
-# Clean Arch
+
+# Clean Architecture Design Patterns
+
+This repository demonstrates the implementation of design patterns using **Clean Architecture** principles in software development.
+
+## Setup Instructions
+
+### Prerequisites
+
+- **Git** installed on your machine
+- **GitHub** account for remote repository hosting
+- Basic understanding of **Git** commands and workflows
+
+### Clone the Repository
+
+If you want to clone this repository to your local machine, run:
+
+```bash
+git clone https://github.com/eman-hamad/clean-architure.git
+
 
 ![coverage][coverage_badge]
 [![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
